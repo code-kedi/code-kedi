@@ -1,6 +1,6 @@
 ### Hi, I am Sonja 👩🏼‍💻🪄
 
-#### What I want to learn next:
+#### I'm currently learning:
 <p><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p> 
 
 #### Connect with me:
