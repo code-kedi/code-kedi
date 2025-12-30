@@ -1,5 +1,5 @@
 ## Hi, I am Sonja!
-### Frontend developer based in Berlin 🐻
+### Frontend developer based in Basel🇨🇭
 
 #### Connect with me:
 <p align="left">
